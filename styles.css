@@ -35,7 +35,8 @@ footer {
 }
 
 
-/*START CUSTOM CSS*/
+/*START myCUSTOM CSS*/
+
 .h2-3col-title {
   color: #FF1493;
 }
@@ -56,8 +57,24 @@ footer {
 .footer-darkBottom {
   background-color: #0956DB;
   display: block;
-
 }
+
+#subfooter {
+background-color: #0D47A1;
+height: 50px;
+}
+
+.h4-subfooter-text {
+  color: #FFF;
+  text-align: left;
+  margin-top: -5px;
+}
+
+.subfooter-text-right {
+  margin-top: 20px;
+}
+
+
 /*END footer*/
 
 .navbar a {
