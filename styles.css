@@ -42,6 +42,11 @@ footer {
 }
 
 /*START footer */
+
+.cardArea {
+    margin-top: 100px;
+}
+
 .footer {
   background-color: #337ab7;
 }
@@ -73,8 +78,6 @@ height: 50px;
 .subfooter-text-right {
   margin-top: 20px;
 }
-
-
 /*END footer*/
 
 .navbar a {
